@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* C/C++
+* Python
+  * Machine Learning
+  * Deep Learning
+  * Object Detection
+  * Natural Language Processing
+  * Django
+* Web-Development
+  * HTML/CSS/JS
+  * ReactJS

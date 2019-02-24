@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+I like:
+* Listening to Trap Music
+* Reading new Tech related stuff
